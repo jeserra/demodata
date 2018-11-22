@@ -1,0 +1,27 @@
+[
+	{
+		"Producto": "PAOLA BOSSI BLUSA RAYADA CUELL   CL000001"
+	},
+	{
+		"Producto":"PAOLA BOSSI BLUSA CUELLO ALTO    CL000002"
+	},
+	{
+		"Producto":"PAOLA BOSSI BLUSA ACANALADA CU   CL000003"
+	},
+	{
+		"Producto":"PAOLA BOSSI BLUSA SIN MANGA CU   CL000004"
+	},
+	{
+		"Producto":"PAOLA BOSSI BLUSA ESTAMPADA CU   CL000005"	
+	},
+	{
+		"Producto": "PAOLA BOSSI BLUSA CON PLIEGUES   CL000006"
+	},
+	{
+		"Producto": "PAOLA BOSSI BLUSA ESTAMPADA CU   CL000007"
+	},
+	{
+		"Producto": "PAOLA BOSSI BLUSA AMARRE AL FT   CL000008"
+	}
+]
+
